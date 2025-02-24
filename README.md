@@ -28,7 +28,7 @@ System Requirements
 - Maven 3.6 or later
 
 Installation and Setup
-1. Clone the repository using git clone https://github.com/
+1. Clone the repository using git clone https://github.com/2Navitha/Online_Course_Reservation_System_using_SpringBoot
 2. Create a MySQL database and update the application.properties file with the database credentials
 3. Run the application using mvn spring-boot:run
 4. Access the application at http://localhost:8080
